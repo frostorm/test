@@ -19,4 +19,5 @@
 16. what do you think of the ideal canditor
 17. what canditor
 18. when I can get the feedback for this
-19. 
+-[] hah
+
