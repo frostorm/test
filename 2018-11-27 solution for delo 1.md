@@ -19,5 +19,12 @@
 16. what do you think of the ideal canditor
 17. what canditor
 18. when I can get the feedback for this
--[] hah
-
+- [ ] handbook for new join
+- [ ] demo application project
+- [ ] training plan
+- [ ] naming guideline for documentation
+- [ ] docs constrain
+- [ ] templates for solution
+- [ ] how to present the solutions
+- [ ] any professional software will involve
+- [ ] what is workflow
