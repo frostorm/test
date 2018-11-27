@@ -12,10 +12,4 @@
 - solution done
 -
 
-# SYSW18035 BC316氛围灯 #
-
-design: "Ben"
-1. welding unit
-2. trolley
-3. absorb unit
-
+# SYSW18035 BC316氛围�
