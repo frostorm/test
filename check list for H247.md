@@ -19,12 +19,3 @@ design: "Ben"
 2. trolley
 3. absorb unit
 
-# SYSW18053 H247 #
-- [ ] OP3 Layout
-- [ ] Pillar layout
-
-
-# RFQ BX11 IP #
-1. Proposal
-2. Cost Estimate
-3. Done before noon
