@@ -5,7 +5,7 @@
 2. not
 3. finished
 4. go ahead
-5. Delo
+5. DELO
 6. where is your position
 7. what can I benefit
 8. how to quick to get study
@@ -28,3 +28,6 @@
 - [ ] how to present the solutions
 - [ ] any professional software will involve
 - [ ] what is workflow
+- [ ] Transportation Card to Fred Sun for adding money
+- [ ] competent
+- [ ]
