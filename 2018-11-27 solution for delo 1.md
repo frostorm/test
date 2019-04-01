@@ -1,11 +1,6 @@
 # 1 #
 ## 2 ##
 ### 3 ###
-1. done
-2. not
-3. finished
-4. go ahead
-5. DELO
 6. where is your position
 7. what can I benefit
 8. how to quick to get study
